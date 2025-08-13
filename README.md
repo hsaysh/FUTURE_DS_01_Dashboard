@@ -1,8 +1,6 @@
 # FUTURE_DS_01_Dashboard
 "E-Commerce Sales Dashboard in Power BI for Future Interns Task 1"
 
-# FUTURE_DS_01 - E-Commerce Sales Dashboard  
-
 ## 📌 Project Overview  
 This project is part of my Future Interns Data Science & Analytics Internship (Task 1).  
 The goal was to create an **interactive and insightful Power BI dashboard** that helps analyze sales, profit, and returns for an e-commerce business.  
