@@ -1,6 +1,7 @@
-# FUTURE_DS_01_Dashboard
-**E-Commerce Sales Dashboard in Power BI for Future Interns Task 1**
-*Future Interns – Data Science & Analytics Internship (Task 1)*
+# FUTURE_DS_02_Dashboard
+**Social Media Campaign Performance Tracker in Power BI**  
+*Future Interns – Data Science & Analytics Internship (Task 2)*
+
 
 ## 📌 Project Overview  
 This project is part of my Future Interns Data Science & Analytics Internship (Task 1).  
