@@ -1,5 +1,5 @@
 # FUTURE_DS_01_Dashboard
-"E-Commerce Sales Dashboard in Power BI for Future Interns Task 1"
+**E-Commerce Sales Dashboard in Power BI for Future Interns Task 1**
 *Future Interns – Data Science & Analytics Internship (Task 1)*
 
 ## 📌 Project Overview  
